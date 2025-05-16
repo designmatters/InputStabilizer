@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=151b7203_002D5240_002D46ce_002Db948_002Dad11a83e4ac6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InputStabilizerTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6D94D0ED-9CBF-4348-8398-D8C987940D0F::net8.0::InputStabilizer.Tests.InputStabilizerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17b778e1_002Dcde7_002D4516_002Db10e_002Dc6403259072f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Return_Value_After_Threshold_Is_Met" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6D94D0ED-9CBF-4348-8398-D8C987940D0F::net8.0::InputStabilizer.Tests.InputStabilizerTests.Should_Return_Value_After_Threshold_Is_Met&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b7362a5_002D49a5_002D41b1_002Da50e_002D85661da41af1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InputStabilizerTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6D94D0ED-9CBF-4348-8398-D8C987940D0F::net8.0::InputStabilizer.Tests.InputStabilizerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=617c7959_002D0c35_002D418e_002Db51f_002D2c6201659967/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InputStabilizerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6D94D0ED-9CBF-4348-8398-D8C987940D0F::net8.0::InputStabilizer.Tests.InputStabilizerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78e85446_002Df1ca_002D49de_002Db74f_002D2f7c6019bf46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="InputStabilizerTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6D94D0ED-9CBF-4348-8398-D8C987940D0F::net8.0::InputStabilizer.Tests.InputStabilizerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
